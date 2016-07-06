@@ -1,0 +1,15 @@
+html,
+body,
+body .container {
+    height: 100%;
+}
+
+body .container .row {
+    height: 100%;
+    margin: 0px;
+}
+
+#response {
+    height: 80%;
+    overflow: auto;
+}

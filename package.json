@@ -1,0 +1,22 @@
+{
+  "name": "long polling chat",
+  "version": "1.0.0",
+  "description": "comet emalute",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinit Mav <mavvinit@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "materialize-css": "^0.97.6",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-nodemon": "^2.1.0"
+  }
+}
